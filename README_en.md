@@ -68,7 +68,7 @@ T_max                  109.9
 
 ## Model Performance
 
-4-component PLS regression, 5-fold × 10-repeat cross-validation, trained on 160 archaeal genomes (mean ± SD):
+4-component PLS regression, 5-fold × 10-repeat cross-validation, trained on 160 genomes (mean ± SD):
 
 | Target | Train R² | CV R²           | CV RMSE (°C)    | CV MAE (°C)     |
 |--------|----------|-----------------|-----------------|-----------------|
