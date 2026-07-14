@@ -14,7 +14,8 @@
 
 ```bash
 pip install mlhuainanzi
-```
+```or
+pip install .
 
 或从源码安装：
 
