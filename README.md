@@ -15,9 +15,8 @@
 ```bash
 pip install mlhuainanzi
 
-```或者
+或者:
 
-```bash
 pip install .
 
 或从源码安装：
