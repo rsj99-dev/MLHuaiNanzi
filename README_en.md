@@ -1,6 +1,6 @@
 # MLHuaiNanzi
 
-**Growth temperature prediction for Archaea from proteome sequences.**
+**Growth temperature prediction for Archaea and Bacteria from proteome sequences.**
 
 Predicts minimum (T_min), optimal (T_opt), and maximum (T_max) growth temperatures
 from a genome's protein sequences (.faa file) using Partial Least Squares (PLS)
