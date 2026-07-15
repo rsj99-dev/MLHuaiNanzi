@@ -93,4 +93,4 @@ MIT License。详见 [LICENSE](LICENSE)。
 
 如果您在研究中使用了 MLHuaiNanzi，请引用：
 
-> https://github.com/rsj99-dev/mlhuainanzi
+> https://github.com/rsj99-dev/MLHuaiNanzi
