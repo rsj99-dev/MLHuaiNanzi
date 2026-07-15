@@ -19,7 +19,7 @@ pip install mlhuainanzi
 Or install from source:
 
 ```bash
-git clone https://github.com/rsj99-dev/mlhuainanzi.git
+git clone https://github.com/rsj99-dev/MLHuaiNanzi.git
 cd mlhuainanzi
 pip install .
 ```
@@ -179,4 +179,4 @@ MIT License
 
 If you use MLHuaiNanzi in your research, please cite:
 
-> [(https://github.com/rsj99-dev/mlhuainanzi)]
+> https://github.com/rsj99-dev/MLHuaiNanzi
