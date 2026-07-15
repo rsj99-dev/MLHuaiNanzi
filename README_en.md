@@ -169,7 +169,7 @@ T_max                  109.9
 
 1. **Feature extraction**: 420-dimensional vector (20 amino acid frequencies + 400 dipeptide frequencies)
 2. **PLS regression** (4 components): Supervised dimensionality reduction + linear regression
-3. **Separate models** for T_min, T_opt, T_max trained on 160 archaeal genomes
+3. **Separate models** for T_min, T_opt, T_max trained on 160 genomes of archaea and bacteria.
 
 ## License
 
