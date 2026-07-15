@@ -22,7 +22,7 @@ pip install .
 或从源码安装：
 
 ```bash
-git clone https://github.com/rsj99-dev/mlhuainanzi.git
+git clone https://github.com/rsj99-dev/MLHuaiNanzi.git
 cd mlhuainanzi
 pip install .
 ```
